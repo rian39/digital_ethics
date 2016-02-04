@@ -2,6 +2,8 @@
 
 ## digital all around
 
+ Anonymous
+ Adsense
  AMD
  Amazon Elastic Compute
  Android
@@ -46,6 +48,8 @@
  Python
  Raspberry Pi
  Snapchat
+ Twitter
+ WhatsApp
  webcams
  Wonga
  WordPress, 
