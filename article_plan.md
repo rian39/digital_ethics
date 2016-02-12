@@ -1,4 +1,5 @@
 # Digital phronesis? Ethical tensions in data in learning from data
+
 Adrian Mackenzie
 Sociology, Centre for Science Studies & Data Science Institute, Lancaster University
 
@@ -7,28 +8,29 @@ Sociology, Centre for Science Studies & Data Science Institute, Lancaster Univer
 - Ethics in the sense of a good way to live (not rules or morality, etc.): habits or dispositions
 - Digital phronesis: what stable dispositions – virtues – do we need in order to live well together?
 - A site of emergent phronesis: truth and care in machine learning
-- 
 
 ## Digital from all directions
+
 - Affects the texture of experience (everyday life, knowledge, health, sexuality, work, etc.)
-- Re-weaves co-existence and hence sociality
-- Super-saturated connectability + intense distractability
+    - Re-weaves co-existence and hence sociality
+    - Super-saturated connectability + intense distractability
 - Two important contemporary features 
-- Heavy concentration of communicative resources (Facebook, Google, Amazon, etc.)
-- Despite claims to newness, many continuities with mass media
-- Many ethical questions around digital are tied to with transformations in media
+    - Heavy concentration of communicative resources (Facebook, Google, Amazon, etc.)
+    - Despite claims to newness, many continuities with mass media
+    - Many ethical questions around digital are tied to with transformations in media
 - Predictive relationality
--Machine learning, pattern recognition, data analytics
--Increasingly pervasive technical practice of sorting, ranking, classifying, labelling, recognising, and predicting saturate social fabric with relationality
+    -Machine learning, pattern recognition, data analytics
+    -Increasingly pervasive technical practice of sorting, ranking, classifying, labelling, recognising, and predicting saturate social fabric with relationality
 
 ## Digital practice creates many ethical problems:
+
 - Can't live without it, but how to live better with it?
 - What shared norms or moral good pertain amidst concentration + predictive relationality?
 - Can you calculate the consequences of relationalities engendered through digital practice?
 - How to live better: what would be the digital 'good'?
 - De-couple understanding of  digital practice from myths such as democracy, freedom, sharing, participation
-- See Morozov, The Net Delusion
-- Freedom of the market does not offer substantive alternative conception of freedom
+    - See Morozov, The Net Delusion
+    - Freedom of the market does not offer substantive alternative conception of freedom
 - If neither democratic or market freedoms are sufficient, then are there any universals can we draw on?
 
 ## Digital phronesis: a set of habits attuned to the contradictions a 'better life.' 
@@ -40,8 +42,9 @@ Cf episteme (science?), techne (craft/production?)
 “phronesis is not scientific knowledge because it apprehends the last step, since the thing is to be done is of this nature”  (215)
 
 Close to practice, not focused on universals or abstractions
-Aristotle calls phronesis a  hexis – stable, well-developed habits, acquired through skilful practice
-Aristotle oftens uses language of 'calculation', 'deliberation'
+- Aristotle calls phronesis a  hexis – stable, well-developed habits, acquired through skilful practice
+- Aristotle often uses language of 'calculation', 'deliberation'
+
 
 ## Phronesis – close to practice 
 'phronesis is not concerned with universals only; it must take cognizance of particulars, because it is concerned with conduct, and conduct has its sphere in particular circumstances'

@@ -26,6 +26,10 @@
 - for the 20 minute presentation, go it down to 20 slides. 
 - turned the slide outline into an article outline
 
+## Thu Feb 11 06:40:20 GMT 2016
+- just realised that I haven't used the SSS readings or the right Bellacasa (2011!)
+- could definitely add Foucault on care vs truth
+
 ## TODO
 
 - add couldry's idea of supersaturation
