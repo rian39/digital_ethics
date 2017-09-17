@@ -38,3 +38,6 @@
 - put in some of After Virtue's arguments .. -- kind of DONE. 
 - write about the PNAS case a bit -- DONE a bit 
 - possibly use the case of bullfighting on facebook https://www.washingtonpost.com/news/the-intersect/wp/2016/01/28/the-big-myth-facebook-needs-everyone-to-believe/
+
+## Fri 15 Sep 2017 17:31:46 BST
+- other examples to use are popping up: Zaidan on skynet; gay faces case;  
