@@ -41,3 +41,7 @@
 
 ## Fri 15 Sep 2017 17:31:46 BST
 - other examples to use are popping up: Zaidan on skynet; gay faces case;  
+
+## Tue 06 Feb 2018 07:43:56 GMT
+- IEEE ethics -- global sourced ethics standards in ~/archive/ensembles/ead_v2.pdf https://ethicsinaction.ieee.org/
+
